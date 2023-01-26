@@ -1,0 +1,33 @@
+{
+  "Status": "Success",
+  "Message": "Details Fetched",
+  "Data": [
+    {
+      "ID": "8",
+      "f_name": "New",
+      "l_name": "Farmerrrrrrr",
+      "email": "armer@qwerty.com",
+      "phone_no": "12345",
+      "close": "1",
+      "status": "2"
+    },
+    {
+      "ID": "10",
+      "f_name": "New",
+      "l_name": "Farmerrrrrrr",
+      "email": "armer@qwerty.com",
+      "phone_no": "12345",
+      "close": "1",
+      "status": "2"
+    },
+    {
+      "ID": "12",
+      "f_name": "New",
+      "l_name": "Farmerrrrrrr",
+      "email": "armer@qwerty.com",
+      "phone_no": "12345",
+      "close": "1",
+      "status": "2"
+    }
+  ]
+}
